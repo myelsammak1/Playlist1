@@ -1,0 +1,63 @@
+\#EXTM3U
+
+# -----------------------
+
+# Egyptian News Channels (YouTube placeholders)
+
+# -----------------------
+
+# Nile TV International (Official YouTube placeholder)
+
+\#EXTINF:-1, Nile TV International
+
+# [https://www.youtube.com/@NileTvInternational2/live](https://www.youtube.com/@NileTvInternational2/live)
+
+# Nile News (Official YouTube placeholder)
+
+\#EXTINF:-1, Nile News
+
+# [https://www.youtube.com/@NileNewsEG/live](https://www.youtube.com/@NileNewsEG/live)
+
+# -----------------------
+
+# Arabic News Channels
+
+# -----------------------
+
+# Al Jazeera Arabic (Official HLS)
+
+\#EXTINF:-1, Al Jazeera Arabic
+[https://live-hls-web-aja.getaj.net/AJA/index.m3u8](https://live-hls-web-aja.getaj.net/AJA/index.m3u8)
+
+# Al Arabiya (Official HLS)
+
+\#EXTINF:-1, Al Arabiya
+[https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8)
+
+# Sky News Arabia (Official HLS)
+
+\#EXTINF:-1, Sky News Arabia
+[https://stream.skynewsarabia.com/hls/sna.m3u8](https://stream.skynewsarabia.com/hls/sna.m3u8)
+
+# BBC Arabic (Official HLS)
+
+\#EXTINF:-1, BBC Arabic
+[https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn\:bbc\:pips\:service\:bbc\_arabic\_tv/pc\_hd\_abr\_v2.m3u8](https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8)
+
+# -----------------------
+
+# Saudi Quran & Sunna (YouTube placeholders)
+
+# -----------------------
+
+# Saudi Quran TV (Official YouTube placeholder)
+
+\#EXTINF:-1, Saudi Quran TV
+
+# [https://www.youtube.com/@SaudiQuranTv](https://www.youtube.com/@SaudiQuranTv)
+
+# Sunna TV (Official YouTube placeholder)
+
+\#EXTINF:-1, Sunna TV
+
+# [https://www.youtube.com/@doucson](https://www.youtube.com/@doucson)
