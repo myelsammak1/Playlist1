@@ -1,0 +1,65 @@
+#EXTM3U
+
+# Egyptian Channels
+#EXTINF:-1, Al Masriya
+https://www.youtube.com/channel/UCkapBIsF6PDBnssR3uqnKsg/live
+
+#EXTINF:-1, Nile TV International
+https://www.youtube.com/@NileTvInternational2/live
+
+#EXTINF:-1, Nile News
+https://www.youtube.com/@NileNewsEG/live
+
+#EXTINF:-1, Nile Drama
+https://www.youtube.com/@NileDramaOfficial/live
+
+#EXTINF:-1, Nile Comedy
+https://www.youtube.com/@NileComedyOfficial/live
+
+#EXTINF:-1, Nile Culture
+https://www.youtube.com/@NileCulture/live
+
+#EXTINF:-1, Nile Life
+https://www.youtube.com/@NileLifeOfficial/live
+
+# News Channels (Arabic)
+#EXTINF:-1, Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1, Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1, Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1, BBC Arabic
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1, France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+# News Channels (English)
+#EXTINF:-1, France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1, DW English
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+#EXTINF:-1, CNN International (Sample)
+https://cnn-cnninternational-1-de.samsung.wurl.tv/playlist.m3u8
+
+# Placeholders (replace with provider links if you have them)
+#EXTINF:-1, MBC 1
+http://your-provider-link/MBC1.m3u8
+
+#EXTINF:-1, MBC Masr
+http://your-provider-link/MBCMasr.m3u8
+
+#EXTINF:-1, Rotana Cinema
+http://your-provider-link/RotanaCinema.m3u8
+
+#EXTINF:-1, Rotana Zaman
+http://your-provider-link/RotanaZaman.m3u8
+
+#EXTINF:-1, Mekameleen
+http://your-provider-link/Mekameleen.m3u8
