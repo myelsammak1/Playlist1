@@ -1,7 +1,7 @@
 #EXTM3U
 
 # =========================
-# 🇪🇬 Egyptian Channels
+# 🇪🇬 Egyptian Channels (YouTube Live)
 # =========================
 # Al Masriya
 #EXTINF:-1 tvg-id="AlMasriya.eg" group-title="Egypt","Al Masriya"
@@ -32,17 +32,6 @@ https://www.youtube.com/@NileCulture/live
 https://www.youtube.com/@NileLifeOfficial/live
 
 # =========================
-# 🇸🇦 Saudi Channels
-# =========================
-# Saudi Quran
-#EXTINF:-1 tvg-id="SaudiQuranTV.sa" group-title="Saudi","Al Quran Al Kareem (Saudi)"
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-# Saudi Sunna
-#EXTINF:-1 tvg-id="SaudiSunnaTV.sa" group-title="Saudi","Al Sunna Al Nabawiya (Saudi)"
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-# =========================
 # 📰 News Channels (Arabic)
 # =========================
 # Al Jazeera Arabic
@@ -51,58 +40,4 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 # Al Arabiya
 #EXTINF:-1 tvg-id="AlArabiya.sa" group-title="News","Al Arabiya"
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-# Sky News Arabia
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" group-title="News","Sky News Arabia"
-https://stream.skynewsarabia.com/hls/sna.m3u8
-
-# BBC Arabic
-#EXTINF:-1 tvg-id="BBCArabic.uk" group-title="News","BBC Arabic"
-https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-
-# France 24 Arabic
-#EXTINF:-1 tvg-id="France24Arabic.fr" group-title="News","France 24 Arabic"
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-
-# =========================
-# 📰 News Channels (English)
-# =========================
-# France 24 English
-#EXTINF:-1 tvg-id="France24English.fr" group-title="News","France 24 English"
-https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
-
-# DW English
-#EXTINF:-1 tvg-id="DWEnglish.de" group-title="News","DW English"
-https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
-
-# CNN International (free live feed demo)
-#EXTINF:-1 tvg-id="CNNInternational.us" group-title="News","CNN International (Sample)"
-https://cnn-cnninternational-1-de.samsung.wurl.tv/playlist.m3u8
-
-# =========================
-# 🎬 Premium / Placeholder Channels
-# =========================
-# MBC 1
-#EXTINF:-1 group-title="MBC","MBC 1 (Insert provider link)"
-http://your-provider-link/MBC1.m3u8
-
-# MBC Masr
-#EXTINF:-1 group-title="MBC","MBC Masr (Insert provider link)"
-http://your-provider-link/MBCMasr.m3u8
-
-# MBC 2
-#EXTINF:-1 group-title="MBC","MBC 2 (Insert provider link)"
-http://your-provider-link/MBC2.m3u8
-
-# Rotana Cinema
-#EXTINF:-1 group-title="Rotana","Rotana Cinema (Insert provider link)"
-http://your-provider-link/RotanaCinema.m3u8
-
-# Rotana Zaman
-#EXTINF:-1 group-title="Rotana","Rotana Zaman (Insert provider link)"
-http://your-provider-link/RotanaZaman.m3u8
-
-# Mekameleen
-#EXTINF:-1 group-title="Comedy","Mekameleen (Insert provider link)"
-http://your-provider-link/Mekameleen.m3u8
+https://live.alarabiya.net/alarabiapublish
