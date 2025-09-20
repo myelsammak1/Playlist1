@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC-Masr" tvg-name="MBC Masr 1" group-title="Arabic",MBC Masr 1
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/mbc_masr1.m3u8
+#EXTINF:-1 tvg-id="MBC-Masr2" tvg-name="MBC Masr 2" group-title="Arabic",MBC Masr 2
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/mbc_masr2.m3u8
+#EXTINF:-1 tvg-id="Mekameleen" tvg-name="Mekameleen" group-title="Arabic",Mekameleen
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/mekameleen_live.m3u8
+#EXTINF:-1 tvg-id="Rotana-Cinema" tvg-name="Rotana Cinema" group-title="Arabic",Rotana Cinema
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rotana_cinema.m3u8
+#EXTINF:-1 tvg-id="Rotana-Zaman" tvg-name="Rotana Zaman" group-title="Arabic",Rotana Zaman
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rotana_zaman.m3u8
+#EXTINF:-1 tvg-id="Rotana-Comedy" tvg-name="Rotana Comedy" group-title="Arabic",Rotana Comedy
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rotana_comedy.m3u8
+#EXTINF:-1 tvg-id="Rotana-Aflam" tvg-name="Rotana Aflam" group-title="Arabic",Rotana Aflam
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rotana_aflam.m3u8
+#EXTINF:-1 tvg-id="Al-Jazeera-News" tvg-name="Al Jazeera News" group-title="News",Al Jazeera News
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/aljazeera_news.m3u8
+#EXTINF:-1 tvg-id="Al-Jazeera-Doc" tvg-name="Al Jazeera Documentary" group-title="Documentary",Al Jazeera Documentary
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/aljazeera_doc.m3u8
+#EXTINF:-1 tvg-id="Alarabiya" tvg-name="Al Arabiya" group-title="News",Al Arabiya
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/alarabiya_live.m3u8
+#EXTINF:-1 tvg-id="Saudi-Sunna" tvg-name="Saudi Sunna" group-title="Religious",Saudi Sunna
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/saudi_sunna.m3u8
+#EXTINF:-1 tvg-id="Saudi-Quran" tvg-name="Saudi Quran" group-title="Religious",Saudi Quran
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/saudi_quran.m3u8
+#EXTINF:-1 tvg-id="Nile-Cinema" tvg-name="Nile Cinema" group-title="Arabic",Nile Cinema
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/nile_cinema.m3u8
+#EXTINF:-1 tvg-id="OnTV-Egypt" tvg-name="OnTV" group-title="Arabic",OnTV
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/ontv_live.m3u8
+#EXTINF:-1 tvg-id="Alnahar" tvg-name="Al Nahar" group-title="Arabic",Al Nahar
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/alnahar_live.m3u8
+#EXTINF:-1 tvg-id="RTE1" tvg-name="RTÉ One" group-title="Irish",RTÉ One
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rte1_live.m3u8
+#EXTINF:-1 tvg-id="RTE2" tvg-name="RTÉ Two" group-title="Irish",RTÉ Two
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/rte2_live.m3u8
+#EXTINF:-1 tvg-id="BBC-Arabic" tvg-name="BBC Arabic" group-title="News",BBC Arabic
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/bbc_arabic_live.m3u8
+#EXTINF:-1 tvg-id="Euronews-EN" tvg-name="Euronews English" group-title="News",Euronews English
+http://REPLACE_WITH_OFFICIAL_STREAM_OR_PROVIDER_URL/euronews_en_live.m3u8
