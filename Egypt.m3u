@@ -1,0 +1,72 @@
+#EXTM3U
+
+# Al Jazeera English (official HLS)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+# Al Jazeera Arabic (official HLS)
+#EXTINF:-1 tvg-id="AlJazeeraArabic" tvg-name="الجزيرة" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+# Al Jazeera Mubasher (official - site & YouTube)
+#EXTINF:-1 tvg-id="AlJazeeraMubasher" tvg-name="الجزيرة مباشر" group-title="News",Al Jazeera Mubasher (YouTube)
+https://www.youtube.com/@aljazeeramubasher/live
+
+# Al Arabiya (official live page)
+#EXTINF:-1 tvg-id="AlArabiya" tvg-name="Al Arabiya" group-title="News",Al Arabiya (Official Live)
+https://www.alarabiya.net/live-stream
+
+# MBC 1 (official YouTube live / MBC site)
+#EXTINF:-1 tvg-id="MBC1" tvg-name="MBC 1" group-title="Entertainment",MBC 1 (YouTube)
+https://www.youtube.com/c/mbc1/live
+
+# MBC 2 (official YouTube / MBC site)
+#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC 2" group-title="Entertainment",MBC 2 (YouTube)
+https://www.youtube.com/c/mbc2/live
+
+# MBC MASR (official YouTube)
+#EXTINF:-1 tvg-id="MBCMASR" tvg-name="MBC Masr" group-title="Egypt",MBC Masr (YouTube)
+https://www.youtube.com/@MBCMASRtv/live
+
+# Nile TV International (official YouTube)
+#EXTINF:-1 tvg-id="NileTVIntl" tvg-name="Nile TV International" group-title="Egypt",Nile TV International (YouTube)
+https://www.youtube.com/@NileTvInternational2/live
+
+# Nile News (official YouTube)
+#EXTINF:-1 tvg-id="NileNews" tvg-name="Nile News" group-title="Egypt",Nile News (YouTube)
+https://www.youtube.com/channel/UCqNEIF-M6df1pAth2pUVFdQ/live
+
+# ON TV (official YouTube)
+#EXTINF:-1 tvg-id="ONTV" tvg-name="ON TV" group-title="Egypt",ON (YouTube)
+https://www.youtube.com/user/ONtveg/live
+
+# CBC (official YouTube streams)
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC Egypt" group-title="Egypt",CBC (YouTube)
+https://www.youtube.com/@CBCEgypt/live
+
+# Al Nahar (official YouTube)
+#EXTINF:-1 tvg-id="AlNahar" tvg-name="Al Nahar" group-title="Egypt",Al Nahar (YouTube)
+https://www.youtube.com/%40alnahareg/streams
+
+# Al Hayat (official YouTube)
+#EXTINF:-1 tvg-id="AlHayat" tvg-name="Al Hayat" group-title="Egypt",Al Hayat (YouTube)
+https://www.youtube.com/%40alhayatchanneltv/live
+
+# Al Masriya / Al Oula (state channel - official site / live page)
+#EXTINF:-1 tvg-id="AlMasriya" tvg-name="Al Masriya" group-title="Egypt",Al Masriya (official live)
+https://www.nile.eg/ (visit Live / TV section) 
+
+# Dubai TV (official site & YouTube)
+#EXTINF:-1 tvg-id="DubaiTV" tvg-name="Dubai TV" group-title="UAE",Dubai TV (YouTube)
+https://www.youtube.com/c/dubaitv/live
+
+# Abu Dhabi TV (official YouTube / site)
+#EXTINF:-1 tvg-id="AbuDhabiTV" tvg-name="Abu Dhabi TV" group-title="UAE",Abu Dhabi TV (YouTube)
+https://www.youtube.com/AbuDhabiTV/live
+
+# Sharjah TV (official YouTube / Sharjah Media)
+#EXTINF:-1 tvg-id="SharjahTV" tvg-name="Sharjah TV" group-title="UAE",Sharjah TV (YouTube)
+https://www.youtube.com/c/SharjahTV/live
+
+# Al Ekhbariya (Saudi - official live / YouTube)
+#EXTINF:-1 tvg-id="Alekhbariya" tvg-name="Al Ekhbariya
