@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="maspero.zaman" tvg-name="Maspero Zaman" tvg-logo="https://example.com/logo.png" group-title="Arabic TV",Maspero Zaman (Example)
+STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="maspero.zaman.hd" tvg-name="Maspero Zaman HD" tvg-logo="https://example.com/logo_hd.png" group-title="Arabic TV",Maspero Zaman HD (Example)
+STREAM_URL_HERE_HD
